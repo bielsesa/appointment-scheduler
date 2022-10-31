@@ -1,3 +1,3 @@
-# mp-calendar
+# Appointment Scheduler
 
 Calendario para reservar citas
